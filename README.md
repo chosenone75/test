@@ -6,3 +6,5 @@ Git is open-source software distributed under the GPL.</br>
 Git tracks changes.
 
 git checkout -b dev
+
+create a branch with Git is very simple and fast.
