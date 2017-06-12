@@ -7,4 +7,5 @@ Git tracks changes.
 
 git checkout -b dev
 
-create a branch with Git is very simple & fast.
+create a branch with Git is very simple and fast.
+
