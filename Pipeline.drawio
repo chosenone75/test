@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-10-23T06:30:52.046Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_4) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.121 Safari/537.36" etag="YPJUopGUbfYpPq_28S4F" version="13.8.1" type="github">
+<mxfile host="app.diagrams.net" modified="2020-10-23T06:32:15.964Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_4) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.121 Safari/537.36" etag="miSV7gzP3fIiBOeYKO2i" version="13.8.1" type="github">
   <diagram id="4u30hbUxO8NpbM6vlSp2" name="Page-1">
     <mxGraphModel dx="1298" dy="690" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -40,7 +40,7 @@
         <mxCell id="WFJCOm-zHOWdiBq46_4i-9" value="1.商户信息&lt;br&gt;2.推荐理由" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="390" y="120" width="90" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="WFJCOm-zHOWdiBq46_4i-17" value="商户相关新&lt;br&gt;语言模型" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="WFJCOm-zHOWdiBq46_4i-17" value="1.商户相关性&lt;br&gt;2.语言模型分" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="510" y="260" width="90" height="40" as="geometry" />
         </mxCell>
       </root>
