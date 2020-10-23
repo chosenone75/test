@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-10-23T06:43:41.725Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_4) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.121 Safari/537.36" etag="n0SoznMeAx5tVPlc32Li" version="13.8.1" type="github">
+<mxfile host="app.diagrams.net" modified="2020-10-23T06:51:23.133Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_4) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.121 Safari/537.36" etag="iq5Vcu1bqfVYuGOU0mqB" version="13.8.1" type="github">
   <diagram id="JLV33hpUf8fsl6XN7Qbe" name="Page-1">
     <mxGraphModel dx="1298" dy="690" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -20,6 +20,39 @@
         </mxCell>
         <mxCell id="a_Vj5TsUM9YrMgkX1L0C-5" value="&lt;span style=&quot;font-size: 15px&quot;&gt;目标句&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="390" y="220" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="a_Vj5TsUM9YrMgkX1L0C-8" value="&lt;span style=&quot;font-size: 15px&quot;&gt;高质量推荐理由&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="390" y="140" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="a_Vj5TsUM9YrMgkX1L0C-11" value="" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;" vertex="1" parent="1">
+          <mxGeometry x="560" y="80" width="170" height="260" as="geometry" />
+        </mxCell>
+        <mxCell id="a_Vj5TsUM9YrMgkX1L0C-12" value="风格分类器" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="585" y="100" width="105" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="a_Vj5TsUM9YrMgkX1L0C-17" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="585" y="260" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="a_Vj5TsUM9YrMgkX1L0C-19" value="" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;" vertex="1" parent="1">
+          <mxGeometry x="560" y="80" width="170" height="260" as="geometry" />
+        </mxCell>
+        <mxCell id="a_Vj5TsUM9YrMgkX1L0C-20" value="风格分类器" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="597.5" y="100" width="95" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="a_Vj5TsUM9YrMgkX1L0C-21" value="内容相关性模型" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="597.5" y="160" width="95" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="a_Vj5TsUM9YrMgkX1L0C-22" value="商户相关性模型" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="597.5" y="220" width="95" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="a_Vj5TsUM9YrMgkX1L0C-23" value="语言质量模型" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="597.5" y="280" width="95" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="a_Vj5TsUM9YrMgkX1L0C-24" value="" style="endArrow=classic;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" target="a_Vj5TsUM9YrMgkX1L0C-20">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="510" y="250" as="sourcePoint" />
+            <mxPoint x="560" y="200" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
